@@ -34,4 +34,3 @@ def game_core_v3(number: int = 1) -> int:
 if __name__ == "__main__":
     # Вызов функции оценки
     print('Run benchmarking for game_core_v3: ', end='')
-    score_game(game_core_v3)
